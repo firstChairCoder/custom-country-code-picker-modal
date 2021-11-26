@@ -1,5 +1,11 @@
 # Custom-Country-Code-Picker-Modal
-|Screen Demo
+
+## Screen Demo
+
+
+https://user-images.githubusercontent.com/66207244/143595668-a83d4df8-bead-4455-b425-d838863cfe23.mp4
+
+Android
 
 ## Introduction
  A simple, lightweight country-code picker that can be customized to fit whatever portion of the screen in your app.
